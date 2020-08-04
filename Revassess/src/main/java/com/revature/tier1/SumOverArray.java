@@ -13,8 +13,4 @@ public class SumOverArray {
 			return sum;
 		}
 	}
-	public static void main(String args[]) {
-		int[] arr = {};
-		System.out.println(IterateAndSum(arr));
-	}
 }

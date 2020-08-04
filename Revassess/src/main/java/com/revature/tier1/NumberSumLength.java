@@ -19,8 +19,4 @@ public class NumberSumLength {
 		}
 		return false;
 	}
-	public static void main(String[] args) {
-		System.out.println(checkNumberPowerLength(1));
-		System.out.println(checkNumberPowerLength(200));
-	}
 }
